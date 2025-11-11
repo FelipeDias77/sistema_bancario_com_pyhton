@@ -23,7 +23,7 @@ O sistema permite as seguintes operações através de um menu interativo:
 
 ### ⚙️ Destaques de Código e Tecnologias
 
-* **Python 3.x**
+* **Python 3**
 * **Funções:** Utilizadas para separar a lógica do programa (`depositar`, `sacar`, `extrato`, etc.).
 * **Args e Kwargs:** Uso de *positional-only* (`/`) e *keyword-only* (`*`) para garantir a clareza e obrigatoriedade dos argumentos nas funções.
 * **Módulo `textwrap`:** Utilizado para formatar e remover a indentação do menu de forma limpa.# sistema_bancario_com_pyhton
